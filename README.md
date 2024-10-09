@@ -28,7 +28,8 @@ gcc -o myshell myshell.c
 
 ### Running the Shell
 
-Running the Shell
+./myshell
+
 
 ### Basic Commands
 
